@@ -50,13 +50,13 @@ Q.10 Join All The Things recreate the table with: customer_id, order_date, produ
 
 **Insights Generated**
 
-Customer with id 'A' spent most while customer with id 'C' spent least.
+- Customer with id 'A' spent most while customer with id 'C' spent least.
 
-Customer with id 'B' visited maximum number of days.
+- Customer with id 'B' visited maximum number of days.
 
-Ramen was the most famous item ordered by 8 number of times.
+- Ramen was the most famous item ordered by 8 number of times.
 
-Customer with id 'B' taste all items equally,it looks like he/she is foody.
+- Customer with id 'B' taste all items equally,it looks like he/she is foody.
 
-Maximum points scored by customer with id 'B'.
+- Maximum points scored by customer with id 'B'.
 
